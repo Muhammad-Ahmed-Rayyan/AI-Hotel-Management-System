@@ -42,6 +42,11 @@ This project aims to streamline hotel management workflows by combining data pro
 
 Follow these steps to set up and run the project locally:
 
+To get started, make sure you have MySQL installed and running on your system.
+Create a database named hoteldatabase and then execute the provided commands_&_Data_Input.sql file to create the necessary tables and insert initial data.
+
+After setting up the database, update the database authentication details in the Python code wherever the MySQL connection is defined (such as in the get_connection() function). Replace the host, port, user, password, and database fields with your own MySQL credentials to ensure the application connects properly.
+
 ```bash
 # Clone the repository
 git clone https://github.com/Muhammad-Ahmed-Rayyan/AI-Hotel-Management-System.git
