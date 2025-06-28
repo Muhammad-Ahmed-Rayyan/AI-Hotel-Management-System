@@ -2,16 +2,16 @@
 
 *Transform Hospitality with Intelligent, Seamless Management*
 
-![last commit](https://img.shields.io/github/last-commit/yourusername/AI-Hotel-Management-System)
+![last commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/AI-Hotel-Management-System)
 ![python](https://img.shields.io/badge/python-100%25-blue)
-![languages](https://img.shields.io/github/languages/count/yourusername/AI-Hotel-Management-System)
+![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/AI-Hotel-Management-System)
 
 Built with the tools and technologies:
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-purple?logo=pandas&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)
 
 ## Overview
 
