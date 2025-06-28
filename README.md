@@ -9,9 +9,10 @@
 Built with the tools and technologies:
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-purple?logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 
 ## Overview
 
