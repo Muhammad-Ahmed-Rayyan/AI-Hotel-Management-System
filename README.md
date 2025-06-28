@@ -5,9 +5,8 @@
 *Transform Hospitality with Intelligent, Seamless Management*
 
 ![last commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/AI-Hotel-Management-System)
-![Python](https://img.shields.io/badge/Python-90%25-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-10%25-4479A1?logo=mysql&logoColor=white)
-![languages](https://img.shields.io/badge/languages-2-blue)
+![python](https://img.shields.io/badge/python-100%25-blue)
+![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/AI-Hotel-Management-System)
 
 <br>
 
