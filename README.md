@@ -1,3 +1,5 @@
+<div align="center">
+
 # AI-HOTEL-MANAGEMENT-SYSTEM
 
 *Transform Hospitality with Intelligent, Seamless Management*
@@ -6,6 +8,8 @@
 ![python](https://img.shields.io/badge/python-100%25-blue)
 ![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/AI-Hotel-Management-System)
 
+<br>
+
 Built with the tools and technologies:
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white)
@@ -13,6 +17,9 @@ Built with the tools and technologies:
 ![Pandas](https://img.shields.io/badge/pandas-purple?logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
+</div>
+
+---
 
 ## Overview
 
@@ -29,13 +36,15 @@ This project aims to streamline hotel management workflows by combining data pro
 - **📝 SQL Query Interface:** Enable direct database queries for troubleshooting and data insights.
 - **📊 Integrated Data Workflows:** Support end-to-end data handling, visualization, and forecasting within a single platform.
 
-## 🚀 Installation
+---
 
-Follow these steps to run the project locally:
+## 🚀 Installation & Setup
+
+Follow these steps to set up and run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AI-Hotel-Management-System.git
+git clone https://github.com/Muhammad-Ahmed-Rayyan/AI-Hotel-Management-System.git
 
 # Navigate to the project directory
 cd AI-Hotel-Management-System
