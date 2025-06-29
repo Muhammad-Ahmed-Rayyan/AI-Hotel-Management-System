@@ -4,21 +4,21 @@ import pandas as pd
 # Global connection for reuse in multiple functions
 global con, cur
 con = connector.connect(
-    host='sql301.infinityfree.com',
+    host="localhost",
     port='3306',
-    user='if0_39353312',
-    password='1234Rayyan',
-    database='if0_39353312_hoteldatabase'
+    user="root",
+    password="1234rayyan",
+    database="hoteldatabase"
 )
 cur = con.cursor()
 
 def get_connection():
     return connector.connect(
-        host='sql301.infinityfree.com',
+        host="localhost",
         port='3306',
-        user='if0_39353312',
-        password='1234Rayyan',
-        database='if0_39353312_hoteldatabase'
+        user="root",
+        password="1234rayyan",
+        database="hoteldatabase"
     )
 
 def createTables():
