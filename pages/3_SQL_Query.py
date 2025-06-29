@@ -7,11 +7,11 @@ st.set_page_config(page_title="SQL Query Executor", page_icon="🧮")
 # Database connection
 def get_connection():
     return mysql.connector.connect(
-        host="localhost",
+        host='sql301.infinityfree.com',
         port='3306',
-        user="root",
-        password="1234rayyan",
-        database="hoteldatabase"
+        user='if0_39353312',
+        password='1234Rayyan',
+        database='if0_39353312_hoteldatabase'
     )
 
 # Role check from session
