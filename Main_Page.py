@@ -41,11 +41,11 @@ st.markdown("""
 # --- DB Connection ---
 def get_connection():
     return mysql.connector.connect(
-        host="localhost",
+        host='sql301.infinityfree.com',
         port='3306',
-        user="root",
-        password="1234rayyan",
-        database="hoteldatabase"
+        user='if0_39353312',
+        password='1234Rayyan',
+        database='if0_39353312_hoteldatabase'
     )
 
 # --- User Authentication ---
