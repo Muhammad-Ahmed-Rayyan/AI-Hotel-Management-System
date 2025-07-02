@@ -66,3 +66,6 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run Main_Page.py
+```
+
+---
