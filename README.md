@@ -12,10 +12,11 @@
 
 Built with the tools and technologies:
 
-![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-purple?logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 </div>
 
@@ -69,3 +70,9 @@ streamlit run Main_Page.py
 ```
 
 ---
+
+<div align="center">
+
+⭐ Like what you see? Don’t forget to hit that star on GitHub!
+
+</div>
